@@ -24,18 +24,6 @@ Scikit-learn (Machine Learning)
 
 Wireshark (Network packet capture for sample data)
 
-📂 Folder Structure
-cyber-threat-detection/
-│
-├── data/                   # Contains input CSV files (network logs, login logs, phishing dataset)
-├── results/                # Stores generated anomaly detection outputs
-│
-├── network_detection.py     # Script for detecting anomalies in network packet size
-├── login_behavior.py        # Script for detecting unusual login behaviors
-├── phishing_detection.py    # Script for phishing website detection using ML
-│
-├── README.md                # Project Documentation
-└── requirements.txt         # Required libraries
 
 ⚡ Project Details
 **1. Network Traffic Anomaly Detection**
